@@ -1,0 +1,4 @@
+﻿  WordCount.cpp
+E:\软件工程\WordCount\WordCount\WordCount.cpp(7,10): error C2039: "cout": 不是 "std" 的成员
+E:\软件工程\WordCount\WordCount\predefined C++ types (compiler internal)(339): message : 参见“std”的声明
+E:\软件工程\WordCount\WordCount\WordCount.cpp(7,15): error C2065: “cout”: 未声明的标识符
